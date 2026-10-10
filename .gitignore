@@ -1,0 +1,4 @@
+/agent-serial
+/bin/
+*.test
+*.out
