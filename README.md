@@ -196,3 +196,4 @@ internal/server/      MCP tool wiring and schemas
 vendor/               go.bug.st/serial, modelcontextprotocol/go-sdk (+x/sys)
 ```
 # agent-serial
+# agent-serial
